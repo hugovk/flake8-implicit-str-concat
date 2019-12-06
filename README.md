@@ -53,3 +53,4 @@ The plugin uses the prefix `ISC`, short for Implicit String Concatenation.
 | ISC001 | implicitly concatenated string literals on one line              |
 | ISC002 | implicitly concatenated string literals over continuation line   |
 | ISC003 | explicitly concatenated string should be implicitly concatenated |
+
